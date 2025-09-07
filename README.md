@@ -17,7 +17,7 @@ To set up the project environment:
 
 1.Clone the repository
 
-```git clone https://github.com/cuijunhui/Breaking-down-modality-barriers-Semantic-cue-guided-Raman-spectroscopy-for-mineral-identification.git```
+```git clone https://github.com/cuijunhui/TGMF.git```
 
 2.Install required Python packages:
 
