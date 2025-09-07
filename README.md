@@ -1,4 +1,4 @@
-# Breaking-down-modality-barriers-Semantic-cue-guided-Raman-spectroscopy-for-mineral-identification
+# Breaking Modal Barriers: Text-Prompt Guided Raman Spectroscopy-Based Mineral Identification
 
 # Overview
 This project introduces a Text-Prompt-Guided Multimodal Fusion (TGMF) model designed for cross-modal modeling between Raman spectroscopy data and mineral structural texts. The proposed multimodal architecture integrates four core components:
